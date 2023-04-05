@@ -1,5 +1,5 @@
 # 1. What is your age? Write a series of calculations that result in your age being printed to the screen.
-myAge = 34
+myAge = 2023 - 1988
 print(myAge)
 # 2. Think of a number that never changes. Create a constant to represent that number and print it to the screen.
 SEC_IN_MIN = 60
